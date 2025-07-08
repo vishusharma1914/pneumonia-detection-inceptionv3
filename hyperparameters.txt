@@ -1,0 +1,12 @@
+Model: InceptionV3 (transfer learning)
+Input size: 150x150x3
+Batch size: 32
+Epochs: 3
+Dropout: 0.5
+Class weights: computed dynamically
+Optimizer: Adam
+Loss: Binary Crossentropy
+Metrics: Accuracy, F1-score, AUC
+
+Submitted by: Vishu Sharma
+Date: 08 July 2025
